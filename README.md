@@ -10,6 +10,7 @@ Database:https://drive.google.com/drive/folders/17mYHZzQff56-2DEbr0ZaPGaMtp1zXhz
 
 
 Key Visualizations:
+
 Map Visualization: A global map highlights the players' birthplaces. Team affiliation is represented by color (New England in red, Philadelphia in blue).
 
 Player Count by State: A bar chart provides a breakdown of the number of players from each state. This helps identify which states contribute the most players to both teams.
