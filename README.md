@@ -2,12 +2,6 @@
 
 
 
-
-
-
-
-
-
 Project Overview:
 
 -This project aims to explore player statistics for the "Big Game" by analyzing various player data, such as birth states, team affiliations, age, and average weight. The interactive Power BI dashboard allows users to visualize where players come from, providing insights into geographic trends and team distributions for major football teams (New England and Philadelphia).
